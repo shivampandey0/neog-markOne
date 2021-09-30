@@ -6,8 +6,16 @@ var questions = [
     answer: "Lucknow",
   },
   {
+    question: "Which comedy movie I like most?",
+    answer: "Hera Pheri",
+  },
+  {
     question: "My favorite Superhero?",
     answer: "Ironman",
+  },
+  {
+    question: "In which year Shivam had a girlfriend?",
+    answer: "Never",
   },
   {
     question: "What I like to eat outside?",
@@ -18,11 +26,11 @@ var questions = [
 var highscores = [
   {
     name:"Shivam",
-    score:"3",
+    score:"5",
   },
   {
     name: "Alok",
-    score: "3",
+    score: "4",
   }
 ];
 
